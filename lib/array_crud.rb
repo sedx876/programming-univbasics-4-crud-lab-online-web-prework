@@ -6,7 +6,7 @@ def create_an_array
   create_an_array = ["cersei", "jon", "sansa", "tyrion"]
 end
 
-def add_element_to_end_of_array(array, element)
+def add_element_to_end_of_array("array", "element")
   add_element_to_end_of_array.push("method")
 end
 
